@@ -1,0 +1,175 @@
+[
+    {
+		"title": "About The Project",
+		"questions": [
+            {"question":"What is Sanctuary?", "answers":[
+                "Sanctuary will be a 1x everything Vanilla WoW server, No-Cross faction, No Cash Shop, No sharding, Progressive."
+            ]},
+            {"question":"Why Should I choose to play on Sanctuary instead of another server?", "answers":[
+                "Our philosophy is to learn from other project's past mistakes to prevent those failures existing on Sanctuary, We want to offer the best possible gameplay experience with a strong community feel. When we look around what is currently offered, what we are trying to provide is unique.",
+                "It comes down to how you see the game and the way it was made to be played, with the original rates, game mode, server settings, micro-transactions, etc."
+            ]},
+            {"question":"When will Sanctuary release?", "answers":[
+                "TBD, however, we are looking at late July to mid August."
+            ]},
+            {"question":"What ensures this server will stay running? **TODO***", "answers":[
+                "TBD, however, we are looking at late July to mid August."
+            ]},
+            {"question":"Where is the server hosted?", "answers":[
+                "OVH France"
+            ]}
+            
+		]
+	},
+
+    {
+		"title": "Server Philosophy",
+		"questions": [
+            {"question":"Is this a 'classic' server? ***TODO***", "answers":[
+                "As with many of you, we felt robbed by Blizzard from what they took from us, then attempted to pass off their version of 'vanilla' wow.",
+                "We decided to start a vanilla server. Not classic. We use the 2006 version of the game as a guide and aimed to emulate that. Nearly 20 years later, we have the power of retrospection to see what went wrong.",
+                "A large community was left with no vanilla options. "
+            ]},
+            {"question":"Will there be a cash shop?", "answers":[
+                "No, this goes directly against the original game, and we do not believe in adding this as a feature.",
+                "There will be an optional donation system for supporting the server hosting costs, however it will have no impact on any gameplay."
+            ]},
+            {"question":"Will there be additional content added?", "answers":[
+                "No, we will not be adding additional content. We are following the vanilla principles."
+            ]},
+            {"question":"How will you handle Cheating/Botting etc.?", "answers":[
+                "We believe a vast majority of servers fail due to botting/hacking/etc. The gold of the economy needs to be the tied to players labor. When bots run rampent, the gold supply is now tied to the bots labor. Real players will not be able to keep up and simply will quit.",
+                "A vast majority of problems servers deal with is related to botting. GDKP/Boosting for hire is a much lesser problem when the only gold players obtain is earned from their labors. GDKP/RMT ran wild with Classic due to their next to zero effort of stopping botters.",
+                "A new approach to this has been developed. We have completely changed how GMs will be able to investigate these reports.",
+                "To avoid giving bot developers insight to develop workarounds, I will explain only some of our tooling.",
+                "We created a method for GMs to replay any players actions. GMs will be able to go back and watch players actions.",
+                "We worked with previous bot developers to write new trigger systems. This has proven to work extremely well.",
+                "We have another secret sauce we cannot present publicly, but it will make a BIG difference.",
+                "We have also tied account registration to discord. Discord has their own internal anti-spam systems including recaptcha, email verifications, etc. If your IP is flagged as risky to Discord they can require a phone verification. We don't have access to this data, but we can utilize their systems to ensure players are actual players. As well, it opens the option to restrict accounts in the future. If needed, we can restrict account creation to only 'phone verified' accounts for example.",
+                "We also have a strict IP range allowed to be used."
+            ]},
+            {"question":"Language/Speech Policy", "answers":[
+                "The official language of the server is English, and in all public channels, English will be enforced.",
+                "A big part of the MMO experience is working with players. This communication falls apart when there's no mutual language. This is the same reason Vanilla WoW had language options when choosing a realm.",
+                "We will be enforcing this via Non-Roman alphabet character filter. However, if we issues arising we can remove this.",
+                "We have a mostly hands off approach to speech. Part of the game was the trolling in channels. Remember Blizzard selling the \"I survived Barrens chat\" tshirts? It was a memorable part of the game for many. However there's a big difference between harassment/spam and trolling. If you choose to spam a channel, guild, yell, etc you will be warned or suspended. Racial slurs in chat are not ok either. Although we encourage players to utilize /ignore for players they find annoying, we aren't aiming for a 4chan style of chat in general. There may be conversations that toe the line of acceptable so we keep the right to limit that ultimately."
+            ]},
+            {"question":"Who is allowed to play? How will this be enforced?", "answers":[
+                "Only residential non-chinese IPs are allowed",
+                "This range will include all VPNs",
+                "There will be an option to petition for an IP unblock. We will attempt to whitelist valid IP ranges such as Universities",
+                "enUS, enGB, are the only allowed clients. We acknowledge that a lot of the 'allowed player base' will use other clients, such as ruRU. However, since we enforce english communications we will also enforce the english clients."
+            ]}
+		]
+	},
+
+    {
+		"title": "Gameplay Policies",
+		"questions": [
+            {"question":"How are world buffs being handled?", "answers":[
+                "World buffs will have no cooldown",
+                "World buffs will tick while offline",
+                "World buffs will not work in new content raids for the first month of release"
+            ]},
+            {"question":"What kind of itemization will you be offering as far as availability at any given time?", "answers":[
+                "Our server is going to run on the progressive timeline, like retail."
+            ]},
+            {"question":"Will there be any hardcore support added?", "answers":[
+                "No, however if you would like to play with an addon or do it as a personal challenge, you are welcome to do so.",
+                "No rewards will be presented to hardcore players. No titles, no server wide messages, no discord titles, etc. Hardcore would be a personal challenge, if chosen to play that way."
+            ]},
+            {"question":"What will the timeline for the server be like?", "answers":[
+                "Sanctuary will run on a progressive timeline, approximately 2 years."
+            ]},
+            {"question":"Will there be naming rules?", "answers":[
+                "Yes, the naming rules will be set to the original World of Warcraft ToS for players and will be enforced to that policy, with the adjustment of no celebrity or political names being allowed."
+            ]},
+            {"question":"What will happen when all content is cleared and the timeline is finished?", "answers":[
+                "This has yet to be determined, for the time being nothing will change and the server will remain in the finished state."
+            ]},
+            {"question":"What will you be doing to fix bugs in game?", "answers":[
+                "We have extensively tested and verified that bugs have been resolved, however if a bug does come up, upon notification and verification our development team will make a correction and update the server to reflect the correct actions"
+            ]},
+            {"question":"Will there be dynamic respawns?", "answers":[
+                "Yes, during the server launch we will have dynamic respawns in the lower level areas to allow those to complete quests even with a large surge in new characters"
+            ]},
+            {"question":"Will there be a PvE specific mode for players who do not want to engage in world PvP?", "answers":[
+                "No, while we understand getting killed in the open world can be frustrating, PvP is a core part of the game",
+                "If you are having issues, we suggest that you find additional players to come help remove the player(s) harassing you"
+            ]},
+            {"question":"Will you be able to complete normal quests in raid groups?", "answers":[
+                "No, this is often abused in lower level areas, due to the adjusted dynamic respawn completing any quest other than raid specific quests will be disabled while in a raid group"
+            ]},
+            {"question":"Why is there no Cross-Faction grouping?", "answers":[
+                "While we do understand some of the concerns about there not being a high enough player population for interaction with some of the content comfortably during launch, cross-faction grouping will never be enabled.",
+                "World of Warcraft exists in a state of war, when you select a faction, you are choosing a side; of course this has both benefits and consequences. Certain zones and cities in the world are friendly and unfriendly depending on your selection, part of the leveling journey is supposed to be determined by your faction selection, allowing cross-faction grouping defeats this purpose."
+            ]},
+            {"question":"Will Dual Specialization be available now or in the future?", "answers":[
+                "No, while we are a classic realm, this was never an option and will not be provided."
+            ]},
+            {"question":"Are you doing any additional changes?", "answers":[
+                "Black Lotus will not be pickable until level 50",
+                "Resources will not be visible while in ghost form",
+                "Warlocks will be unable to summon anyone greater than 8 levels above them",
+                "There will be no world chat, chat channel usage will be enforced (trade for trade, general for general, lfg for lfg, etc.)",
+                "Alterac valley will be set to the Pre-Nerf values",
+                "Dire Maul lashers will be post nerf and offer less XP and less loot"
+            ]},
+            {"question":"Can you offer us any additional information about the XP rate choice?", "answers":[
+                "As previously mentioned, Sanctuary will be based on 1x rates.",
+                "We believe that the game is meant to be played this way, the journey while playing matters just as much as the destination while you play World of Warcraft. WoW is not a sprint, it is a game where you take your take your time and can enjoy things at your own pace.",
+                "There will be no limitation on events that the community wants to hold, and there will never be any events that boost XP or additional bonuses."
+            ]}
+		]
+	},
+
+    {
+		"title": "Server Info & Policies",
+		"questions": [
+            {"question":"What clients will work with Sanctuary?", "answers":[
+                "We will support the 1.12 and 1.14 clients.",
+                "1.14 will be handled natively. No proxy required.",
+                "Modified clients are forbidden and can lead to a ban."
+            ]},
+            {"question":"How will you mitigate DDoS attacks?", "answers":[
+                "We have a DDoS mitigation system in place that comes from our server provider.",
+                "There will be a restriction of IP ranges to only support residential, non-chinese IPs.",
+                "Additional custom anti-DDoS systems have been created"
+            ]},
+            {"question":"Will you be able to restore a character that was deleted from an account?", "answers":[
+                "No, we will not"
+            ]},
+            {"question":"Will there be access to a public database?", "answers":[
+                "No, there will be no public database",
+                "This is not in the spirit of vanilla to view players outside the game"
+            ]},
+            {"question":"Is it possible to transfer my character from another vanilla server?", "answers":[
+                "No, as this is a fresh server no characters from any other server will allowed to be transferred."
+            ]},
+            {"question":"Will characters created during the servers beta testing phase be transferred over when the server opens to the public?", "answers":[
+                "No, all characters created during the beta testing phase will be deleted upon launch"
+            ]},
+            {"question":"Is account trading allowed?", "answers":[
+                "No, account trading in any form will result in a ban for all accounts involved"
+            ]}
+		]
+	},
+
+    {
+		"title": "Logistics & Staff",
+		"questions": [
+            {"question":"How is the server funded? Can I donate?", "answers":[
+                "Server will initially be funded by staff but will transition to donation based",
+                "While we do not expect donations, all donations will be used to help pay for the server hosting costs.",
+                "Staff is not paid. We do not take an money directly.",
+                "There will be no benefits from donating in-game. No titles, no special spells, no special mount, nothing in-game. We may be open to a special title in the Discord or Forums. Suggestions for perks outside the server are open for discussion."
+            ]},
+            {"question":"What if there are significant over-donations above the server hosting costs?", "answers":[
+                "If the server is consistently exceedingly receiving donations that will pay for the server hosting we may consider paying staff in the future. Assuming the server is funded well in advance without fear of shutting down.",
+                "This would be an entirely open process with votes. Nothing will move until the community gives a majority vote to reward staff."
+            ]}
+		]
+	}
+	
+
+]
