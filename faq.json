@@ -28,7 +28,7 @@
             {"question":"Is this a 'classic' server? ***TODO***", "answers":[
                 "As with many of you, we felt robbed by Blizzard from what they took from us, then attempted to pass off their version of 'vanilla' wow.",
                 "We decided to start a vanilla server. Not classic. We use the 2006 version of the game as a guide and aimed to emulate that. Nearly 20 years later, we have the power of retrospection to see what went wrong.",
-                "A large community was left with no vanilla options. "
+                "We will be supporting the 1.14 client, however we will not support the modern API that it provides. These APIs allow for addons that could never exist in Vanilla. Some of these APIs can actually change the gameplay and give advantages. If you use these addons, they may break your game."
             ]},
             {"question":"Will there be a cash shop?", "answers":[
                 "No, this goes directly against the original game, and we do not believe in adding this as a feature.",
