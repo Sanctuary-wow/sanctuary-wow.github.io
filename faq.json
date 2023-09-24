@@ -19,7 +19,7 @@
         {
           "question": "When will Sanctuary release?",
           "answers": [
-            "We're currently looking at a September/October release window. TBD."
+            "We're currently looking at a October release window. TBD."
           ]
         },
         {
@@ -73,8 +73,8 @@
             "We created a method for GMs to replay any player's actions. GMs will be able to go back and watch players' actions, much like a CCTV system.",
             "We worked with previous bot developers to write new trigger systems. This has proven to work extremely well.",
             "We have another secret sauce that we cannot present publicly, but it will make a big difference.",
-            "We have also tied account registration to Discord. Discord has its own internal anti-spam systems, including reCAPTCHA, email verifications, etc. If your IP is flagged as risky to Discord, they can require phone verification. We don't have access to this data, but we can utilize their systems to ensure players are actual players. Additionally, it opens the option to restrict accounts in the future. If needed, we can restrict account creation to only 'phone-verified' accounts, for example.",
-            "We also have a strict IP range allowed to be used."
+            "We also have a strict IP range allowed to be used.",
+            "We will still utilize player reports and we will use our tooling along side of this."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "question": "What limitations will the 1.14 client have?",
           "answers": [
-            "We have disabled the add-on communication channel. This decision will break add-ons that rely on this channel. We cannot provide a full list of add-ons that will be affected, but we recommend trying out add-on packs for compatibility.",
+            "We have partially disabled the add-on communication channel. This decision will break add-ons that rely on this channel. We cannot provide a full list of add-ons that will be affected, but we recommend trying out add-on packs for compatibility.",
             "This does not mean all add-ons will break. The majority of add-ons will not be affected.",
             "We do this to ensure that there is no advantage to using the modern client over the original. This modern feature was not in Vanilla, and we do not believe it has a place here either.",
             "We acknowledge that 1.14 allows for additional wall jumping abuse. We have additional triggers, as well as the ability to replay players' actions. These malicious actions will be bannable."
@@ -119,14 +119,14 @@
         {
           "question": "What about boosting and summoning services?",
           "answers": [
-            "Players will not be allowed to advertise for boosting or summoning services."
+            "Players will not be allowed to advertise for boosting or summoning services.",
+            "Mage portal services are allowed."
           ]
         },
         {
           "question": "How are world buffs being handled?",
           "answers": [
             "World buffs will have no cooldown.",
-            "World buffs will tick while offline.",
             "World buffs will be disabled inside new raids during the first month following their release."
           ]
         },
@@ -154,7 +154,7 @@
         {
           "question": "Will there be naming rules?",
           "answers": [
-            "Yes, the naming rules will be set to the original World of Warcraft Terms of Service (ToS) for players."
+            "Yes, we have formulated our name policy in alignment with community feedback and reports."
           ]
         },
         {
@@ -200,11 +200,10 @@
             "Black Lotus will not be pickable until level 50.",
             "Resources will not be visible while in ghost form.",
             "Warlocks will be unable to summon anyone greater than 8 levels above them.",
-            "There will be no world chat.",
             "Alterac Valley will be set to the pre-nerf state.",
             "Dire Maul lashers will be post-nerf and offer less XP and less loot.",
             "Lupos will be in its post-nerf state throughout the whole timeline.",
-            "DMT: King Gordok's movement speed has been increased significantly."
+            "DMT: King Gordok's movement pathing has been modified to fix abusive farming."
           ]
         }
       ]
@@ -216,7 +215,6 @@
           "question": "What clients will work with Sanctuary?",
           "answers": [
             "We will support the 1.12 and 1.14 clients.",
-            "1.14 will be handled natively. No proxy required.",
             "Modified clients are forbidden and can lead to a ban."
           ]
         },
